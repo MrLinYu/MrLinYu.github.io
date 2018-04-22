@@ -1,2 +1,2 @@
 console.log("this is message!")
-console.log("you are last of last!")
+console.log("you are last")
