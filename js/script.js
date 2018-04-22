@@ -106,5 +106,6 @@ window.onload=function(){
 		}
 	}
 	slideImg();
+	console.log("zhoghalsd")
 
 }
