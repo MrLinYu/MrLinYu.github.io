@@ -9,7 +9,11 @@ function(){
 	var b=2;
 	console.log(a+b)
 }
+function(){
+	console.log(a212121)
+}
 console.log('second1212');
 console.log("==================================================")
 console.log("you are good men!")
 console.log('---------------------------------------------')
+
