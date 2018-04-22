@@ -9,3 +9,4 @@ function(){
 	var b=2;
 	console.log(a+b)
 }
+console.log('second1212');
