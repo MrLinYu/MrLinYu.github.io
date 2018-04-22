@@ -10,3 +10,4 @@ function(){
 	console.log(a+b)
 }
 console.log('second1212');
+console.log("==================================================")
