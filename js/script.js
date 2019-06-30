@@ -107,5 +107,6 @@ window.onload=function(){
 	}
 	slideImg();
 	console.log("zhoghalsd")
+	console.log('this is a test')
 
 }
